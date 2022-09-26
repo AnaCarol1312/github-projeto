@@ -1,0 +1,3 @@
+Introdução ao git e github projeto
+
+git baqsh é um terminal extendido para otimizar o uso do git.
